@@ -61,7 +61,18 @@ def save_results(results_list, output_file="cl_performance_results.json"):
 
 if __name__ == "__main__":
     # 默认的CSV文件路径,只读取在config.json中seed=4的csv文件
-    ref_data = [0.2, 0.9, 1.0, 1.0, 0.1, 1.0, 0.8, 1.0, 1.0, 1.0]
+    ref_data = [
+        0.85,
+        0.71,
+        0.8699999999999999,
+        0.68,
+        0.6,
+        0.7899999999999999,
+        0.8699999999999999,
+        0.27,
+        0.89,
+        0.8
+    ]
     all_results = []
     
     for seed in range(0, 159):
