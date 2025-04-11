@@ -1,0 +1,9 @@
+method,performance,forgetting,f. transfer
+Fine-tuning,0.10,0.73,-0.02
+L2,0.53,0.02,-0.25
+EWC,0.47,0.18,-0.18
+MAS,0.41,0.09,-0.29
+VCL,0.70,-0.08,-0.20
+PackNet,0.74,0.05,-0.03
+reservoir,0.35,-0.06,-0.52
+A-GEM,0.15,0.66,-0.05

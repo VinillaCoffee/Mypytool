@@ -1,0 +1,5093 @@
+{
+    "seed_counts": {
+        "0": 10,
+        "1": 10,
+        "10": 10,
+        "11": 10,
+        "12": 10,
+        "13": 10,
+        "14": 10,
+        "15": 10,
+        "16": 10,
+        "17": 10,
+        "18": 10,
+        "19": 10,
+        "2": 10,
+        "20": 10,
+        "21": 10,
+        "22": 10,
+        "23": 10,
+        "24": 10,
+        "25": 10,
+        "26": 10,
+        "27": 10,
+        "28": 10,
+        "29": 10,
+        "3": 10,
+        "30": 10,
+        "31": 10,
+        "32": 10,
+        "33": 10,
+        "34": 10,
+        "35": 10,
+        "36": 10,
+        "37": 10,
+        "38": 10,
+        "39": 10,
+        "4": 10,
+        "40": 10,
+        "41": 10,
+        "42": 10,
+        "43": 10,
+        "44": 8,
+        "45": 10,
+        "46": 10,
+        "47": 10,
+        "48": 10,
+        "49": 10,
+        "5": 10,
+        "50": 10,
+        "51": 10,
+        "52": 10,
+        "53": 10,
+        "54": 10,
+        "55": 10,
+        "56": 10,
+        "57": 10,
+        "58": 10,
+        "59": 10,
+        "6": 10,
+        "60": 10,
+        "61": 10,
+        "62": 10,
+        "63": 10,
+        "64": 10,
+        "65": 10,
+        "66": 10,
+        "67": 9,
+        "68": 10,
+        "69": 10,
+        "7": 10,
+        "70": 10,
+        "71": 10,
+        "72": 10,
+        "73": 10,
+        "74": 10,
+        "75": 10,
+        "76": 9,
+        "77": 10,
+        "78": 10,
+        "79": 10,
+        "8": 10,
+        "80": 10,
+        "81": 10,
+        "82": 10,
+        "83": 10,
+        "84": 10,
+        "85": 10,
+        "86": 10,
+        "87": 10,
+        "88": 10,
+        "89": 10,
+        "9": 10,
+        "90": 10,
+        "91": 10,
+        "92": 10,
+        "93": 10,
+        "94": 10,
+        "95": 9,
+        "96": 10,
+        "97": 10,
+        "98": 10,
+        "99": 10
+    },
+    "task_counts": {
+        "hammer-v1": 99,
+        "push-wall-v1": 99,
+        "faucet-close-v1": 99,
+        "push-back-v1": 100,
+        "stick-pull-v1": 100,
+        "handle-press-side-v1": 100,
+        "push-v1": 98,
+        "shelf-place-v1": 100,
+        "window-close-v1": 100,
+        "peg-unplug-side-v1": 100
+    },
+    "config_info": [
+        {
+            "folder": "single_0",
+            "seed": 0,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_1",
+            "seed": 0,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_10",
+            "seed": 1,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_100",
+            "seed": 10,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_101",
+            "seed": 10,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_102",
+            "seed": 10,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_103",
+            "seed": 10,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_104",
+            "seed": 10,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_105",
+            "seed": 10,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_106",
+            "seed": 10,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_107",
+            "seed": 10,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_108",
+            "seed": 10,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_109",
+            "seed": 10,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_11",
+            "seed": 1,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_110",
+            "seed": 11,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_111",
+            "seed": 11,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_112",
+            "seed": 11,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_113",
+            "seed": 11,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_114",
+            "seed": 11,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_115",
+            "seed": 11,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_116",
+            "seed": 11,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_117",
+            "seed": 11,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_118",
+            "seed": 11,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_119",
+            "seed": 11,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_12",
+            "seed": 1,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_120",
+            "seed": 12,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_121",
+            "seed": 12,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_122",
+            "seed": 12,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_123",
+            "seed": 12,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_124",
+            "seed": 12,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_125",
+            "seed": 12,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_126",
+            "seed": 12,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_127",
+            "seed": 12,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_128",
+            "seed": 12,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_129",
+            "seed": 12,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_13",
+            "seed": 1,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_130",
+            "seed": 13,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_131",
+            "seed": 13,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_132",
+            "seed": 13,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_133",
+            "seed": 13,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_134",
+            "seed": 13,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_135",
+            "seed": 13,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_136",
+            "seed": 13,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_137",
+            "seed": 13,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_138",
+            "seed": 13,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_139",
+            "seed": 13,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_14",
+            "seed": 1,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_140",
+            "seed": 14,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_141",
+            "seed": 14,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_142",
+            "seed": 14,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_143",
+            "seed": 14,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_144",
+            "seed": 14,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_145",
+            "seed": 14,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_146",
+            "seed": 14,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_147",
+            "seed": 14,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_148",
+            "seed": 14,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_149",
+            "seed": 14,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_15",
+            "seed": 1,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_150",
+            "seed": 15,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_151",
+            "seed": 15,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_152",
+            "seed": 15,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_153",
+            "seed": 15,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_154",
+            "seed": 15,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_155",
+            "seed": 15,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_156",
+            "seed": 15,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_157",
+            "seed": 15,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_158",
+            "seed": 15,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_159",
+            "seed": 15,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_16",
+            "seed": 1,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_160",
+            "seed": 16,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_161",
+            "seed": 16,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_162",
+            "seed": 16,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_163",
+            "seed": 16,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_164",
+            "seed": 16,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_165",
+            "seed": 16,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_166",
+            "seed": 16,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_167",
+            "seed": 16,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_168",
+            "seed": 16,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_169",
+            "seed": 16,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_17",
+            "seed": 1,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_170",
+            "seed": 17,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_171",
+            "seed": 17,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_172",
+            "seed": 17,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_173",
+            "seed": 17,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_174",
+            "seed": 17,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_175",
+            "seed": 17,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_176",
+            "seed": 17,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_177",
+            "seed": 17,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_178",
+            "seed": 17,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_179",
+            "seed": 17,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_18",
+            "seed": 1,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_180",
+            "seed": 18,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_181",
+            "seed": 18,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_182",
+            "seed": 18,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_183",
+            "seed": 18,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_184",
+            "seed": 18,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_185",
+            "seed": 18,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_186",
+            "seed": 18,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_187",
+            "seed": 18,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_188",
+            "seed": 18,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_189",
+            "seed": 18,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_19",
+            "seed": 1,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_190",
+            "seed": 19,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_191",
+            "seed": 19,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_192",
+            "seed": 19,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_193",
+            "seed": 19,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_194",
+            "seed": 19,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_195",
+            "seed": 19,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_196",
+            "seed": 19,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_197",
+            "seed": 19,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_198",
+            "seed": 19,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_199",
+            "seed": 19,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_2",
+            "seed": 0,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_20",
+            "seed": 2,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_200",
+            "seed": 20,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_201",
+            "seed": 20,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_202",
+            "seed": 20,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_203",
+            "seed": 20,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_204",
+            "seed": 20,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_205",
+            "seed": 20,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_206",
+            "seed": 20,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_207",
+            "seed": 20,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_208",
+            "seed": 20,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_209",
+            "seed": 20,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_21",
+            "seed": 2,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_210",
+            "seed": 21,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_211",
+            "seed": 21,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_212",
+            "seed": 21,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_213",
+            "seed": 21,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_214",
+            "seed": 21,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_215",
+            "seed": 21,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_216",
+            "seed": 21,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_217",
+            "seed": 21,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_218",
+            "seed": 21,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_219",
+            "seed": 21,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_22",
+            "seed": 2,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_220",
+            "seed": 22,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_221",
+            "seed": 22,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_222",
+            "seed": 22,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_223",
+            "seed": 22,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_224",
+            "seed": 22,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_225",
+            "seed": 22,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_226",
+            "seed": 22,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_227",
+            "seed": 22,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_228",
+            "seed": 22,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_229",
+            "seed": 22,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_23",
+            "seed": 2,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_230",
+            "seed": 23,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_231",
+            "seed": 23,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_232",
+            "seed": 23,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_233",
+            "seed": 23,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_234",
+            "seed": 23,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_235",
+            "seed": 23,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_236",
+            "seed": 23,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_237",
+            "seed": 23,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_238",
+            "seed": 23,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_239",
+            "seed": 23,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_24",
+            "seed": 2,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_240",
+            "seed": 24,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_241",
+            "seed": 24,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_242",
+            "seed": 24,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_243",
+            "seed": 24,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_244",
+            "seed": 24,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_245",
+            "seed": 24,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_246",
+            "seed": 24,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_247",
+            "seed": 24,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_248",
+            "seed": 24,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_249",
+            "seed": 24,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_25",
+            "seed": 2,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_250",
+            "seed": 25,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_251",
+            "seed": 25,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_252",
+            "seed": 25,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_253",
+            "seed": 25,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_254",
+            "seed": 25,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_255",
+            "seed": 25,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_256",
+            "seed": 25,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_257",
+            "seed": 25,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_258",
+            "seed": 25,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_259",
+            "seed": 25,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_26",
+            "seed": 2,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_260",
+            "seed": 26,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_261",
+            "seed": 26,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_262",
+            "seed": 26,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_263",
+            "seed": 26,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_264",
+            "seed": 26,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_265",
+            "seed": 26,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_266",
+            "seed": 26,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_267",
+            "seed": 26,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_268",
+            "seed": 26,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_269",
+            "seed": 26,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_27",
+            "seed": 2,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_270",
+            "seed": 27,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_271",
+            "seed": 27,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_272",
+            "seed": 27,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_273",
+            "seed": 27,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_274",
+            "seed": 27,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_275",
+            "seed": 27,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_276",
+            "seed": 27,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_277",
+            "seed": 27,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_278",
+            "seed": 27,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_279",
+            "seed": 27,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_28",
+            "seed": 2,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_280",
+            "seed": 28,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_281",
+            "seed": 28,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_282",
+            "seed": 28,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_283",
+            "seed": 28,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_284",
+            "seed": 28,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_285",
+            "seed": 28,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_286",
+            "seed": 28,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_287",
+            "seed": 28,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_288",
+            "seed": 28,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_289",
+            "seed": 28,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_29",
+            "seed": 2,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_290",
+            "seed": 29,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_291",
+            "seed": 29,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_292",
+            "seed": 29,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_293",
+            "seed": 29,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_294",
+            "seed": 29,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_295",
+            "seed": 29,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_296",
+            "seed": 29,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_297",
+            "seed": 29,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_298",
+            "seed": 29,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_299",
+            "seed": 29,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_3",
+            "seed": 0,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_30",
+            "seed": 3,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_300",
+            "seed": 30,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_301",
+            "seed": 30,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_302",
+            "seed": 30,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_303",
+            "seed": 30,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_304",
+            "seed": 30,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_305",
+            "seed": 30,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_306",
+            "seed": 30,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_307",
+            "seed": 30,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_308",
+            "seed": 30,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_309",
+            "seed": 30,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_31",
+            "seed": 3,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_310",
+            "seed": 31,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_311",
+            "seed": 31,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_312",
+            "seed": 31,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_313",
+            "seed": 31,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_314",
+            "seed": 31,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_315",
+            "seed": 31,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_316",
+            "seed": 31,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_317",
+            "seed": 31,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_318",
+            "seed": 31,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_319",
+            "seed": 31,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_32",
+            "seed": 3,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_320",
+            "seed": 32,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_321",
+            "seed": 32,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_322",
+            "seed": 32,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_323",
+            "seed": 32,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_324",
+            "seed": 32,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_325",
+            "seed": 32,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_326",
+            "seed": 32,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_327",
+            "seed": 32,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_328",
+            "seed": 32,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_329",
+            "seed": 32,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_33",
+            "seed": 3,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_330",
+            "seed": 33,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_331",
+            "seed": 33,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_332",
+            "seed": 33,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_333",
+            "seed": 33,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_334",
+            "seed": 33,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_335",
+            "seed": 33,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_336",
+            "seed": 33,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_337",
+            "seed": 33,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_338",
+            "seed": 33,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_339",
+            "seed": 33,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_34",
+            "seed": 3,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_340",
+            "seed": 34,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_341",
+            "seed": 34,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_342",
+            "seed": 34,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_343",
+            "seed": 34,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_344",
+            "seed": 34,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_345",
+            "seed": 34,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_346",
+            "seed": 34,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_347",
+            "seed": 34,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_348",
+            "seed": 34,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_349",
+            "seed": 34,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_35",
+            "seed": 3,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_350",
+            "seed": 35,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_351",
+            "seed": 35,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_352",
+            "seed": 35,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_353",
+            "seed": 35,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_354",
+            "seed": 35,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_355",
+            "seed": 35,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_356",
+            "seed": 35,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_357",
+            "seed": 35,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_358",
+            "seed": 35,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_359",
+            "seed": 35,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_36",
+            "seed": 3,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_360",
+            "seed": 36,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_361",
+            "seed": 36,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_362",
+            "seed": 36,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_363",
+            "seed": 36,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_364",
+            "seed": 36,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_365",
+            "seed": 36,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_366",
+            "seed": 36,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_367",
+            "seed": 36,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_368",
+            "seed": 36,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_369",
+            "seed": 36,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_37",
+            "seed": 3,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_370",
+            "seed": 37,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_371",
+            "seed": 37,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_372",
+            "seed": 37,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_373",
+            "seed": 37,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_374",
+            "seed": 37,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_375",
+            "seed": 37,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_376",
+            "seed": 37,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_377",
+            "seed": 37,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_378",
+            "seed": 37,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_379",
+            "seed": 37,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_38",
+            "seed": 3,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_380",
+            "seed": 38,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_381",
+            "seed": 38,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_382",
+            "seed": 38,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_383",
+            "seed": 38,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_384",
+            "seed": 38,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_385",
+            "seed": 38,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_386",
+            "seed": 38,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_387",
+            "seed": 38,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_388",
+            "seed": 38,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_389",
+            "seed": 38,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_39",
+            "seed": 3,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_390",
+            "seed": 39,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_391",
+            "seed": 39,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_392",
+            "seed": 39,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_393",
+            "seed": 39,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_394",
+            "seed": 39,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_395",
+            "seed": 39,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_396",
+            "seed": 39,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_397",
+            "seed": 39,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_398",
+            "seed": 39,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_399",
+            "seed": 39,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_4",
+            "seed": 0,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_40",
+            "seed": 4,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_400",
+            "seed": 40,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_401",
+            "seed": 40,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_402",
+            "seed": 40,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_403",
+            "seed": 40,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_404",
+            "seed": 40,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_405",
+            "seed": 40,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_406",
+            "seed": 40,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_407",
+            "seed": 40,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_408",
+            "seed": 40,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_409",
+            "seed": 40,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_41",
+            "seed": 4,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_410",
+            "seed": 41,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_411",
+            "seed": 41,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_412",
+            "seed": 41,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_413",
+            "seed": 41,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_414",
+            "seed": 41,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_415",
+            "seed": 41,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_416",
+            "seed": 41,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_417",
+            "seed": 41,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_418",
+            "seed": 41,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_419",
+            "seed": 41,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_42",
+            "seed": 4,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_420",
+            "seed": 42,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_421",
+            "seed": 42,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_422",
+            "seed": 42,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_423",
+            "seed": 42,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_424",
+            "seed": 42,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_425",
+            "seed": 42,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_426",
+            "seed": 42,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_427",
+            "seed": 42,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_428",
+            "seed": 42,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_429",
+            "seed": 42,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_43",
+            "seed": 4,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_430",
+            "seed": 43,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_431",
+            "seed": 43,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_432",
+            "seed": 43,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_433",
+            "seed": 43,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_434",
+            "seed": 43,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_435",
+            "seed": 43,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_436",
+            "seed": 43,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_437",
+            "seed": 43,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_438",
+            "seed": 43,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_439",
+            "seed": 43,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_44",
+            "seed": 4,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_440",
+            "seed": 44,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_441",
+            "seed": 44,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_443",
+            "seed": 44,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_444",
+            "seed": 44,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_445",
+            "seed": 44,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_447",
+            "seed": 44,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_448",
+            "seed": 44,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_449",
+            "seed": 44,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_45",
+            "seed": 4,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_450",
+            "seed": 45,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_451",
+            "seed": 45,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_452",
+            "seed": 45,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_453",
+            "seed": 45,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_454",
+            "seed": 45,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_455",
+            "seed": 45,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_456",
+            "seed": 45,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_457",
+            "seed": 45,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_458",
+            "seed": 45,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_459",
+            "seed": 45,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_46",
+            "seed": 4,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_460",
+            "seed": 46,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_461",
+            "seed": 46,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_462",
+            "seed": 46,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_463",
+            "seed": 46,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_464",
+            "seed": 46,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_465",
+            "seed": 46,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_466",
+            "seed": 46,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_467",
+            "seed": 46,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_468",
+            "seed": 46,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_469",
+            "seed": 46,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_47",
+            "seed": 4,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_470",
+            "seed": 47,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_471",
+            "seed": 47,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_472",
+            "seed": 47,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_473",
+            "seed": 47,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_474",
+            "seed": 47,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_475",
+            "seed": 47,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_476",
+            "seed": 47,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_477",
+            "seed": 47,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_478",
+            "seed": 47,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_479",
+            "seed": 47,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_48",
+            "seed": 4,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_480",
+            "seed": 48,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_481",
+            "seed": 48,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_482",
+            "seed": 48,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_483",
+            "seed": 48,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_484",
+            "seed": 48,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_485",
+            "seed": 48,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_486",
+            "seed": 48,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_487",
+            "seed": 48,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_488",
+            "seed": 48,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_489",
+            "seed": 48,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_49",
+            "seed": 4,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_490",
+            "seed": 49,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_491",
+            "seed": 49,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_492",
+            "seed": 49,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_493",
+            "seed": 49,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_494",
+            "seed": 49,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_495",
+            "seed": 49,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_496",
+            "seed": 49,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_497",
+            "seed": 49,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_498",
+            "seed": 49,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_499",
+            "seed": 49,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_5",
+            "seed": 0,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_50",
+            "seed": 5,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_500",
+            "seed": 50,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_501",
+            "seed": 50,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_502",
+            "seed": 50,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_503",
+            "seed": 50,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_504",
+            "seed": 50,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_505",
+            "seed": 50,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_506",
+            "seed": 50,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_507",
+            "seed": 50,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_508",
+            "seed": 50,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_509",
+            "seed": 50,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_51",
+            "seed": 5,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_510",
+            "seed": 51,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_511",
+            "seed": 51,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_512",
+            "seed": 51,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_513",
+            "seed": 51,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_514",
+            "seed": 51,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_515",
+            "seed": 51,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_516",
+            "seed": 51,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_517",
+            "seed": 51,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_518",
+            "seed": 51,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_519",
+            "seed": 51,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_52",
+            "seed": 5,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_520",
+            "seed": 52,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_521",
+            "seed": 52,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_522",
+            "seed": 52,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_523",
+            "seed": 52,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_524",
+            "seed": 52,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_525",
+            "seed": 52,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_526",
+            "seed": 52,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_527",
+            "seed": 52,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_528",
+            "seed": 52,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_529",
+            "seed": 52,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_53",
+            "seed": 5,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_530",
+            "seed": 53,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_531",
+            "seed": 53,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_532",
+            "seed": 53,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_533",
+            "seed": 53,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_534",
+            "seed": 53,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_535",
+            "seed": 53,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_536",
+            "seed": 53,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_537",
+            "seed": 53,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_538",
+            "seed": 53,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_539",
+            "seed": 53,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_54",
+            "seed": 5,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_540",
+            "seed": 54,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_541",
+            "seed": 54,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_542",
+            "seed": 54,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_543",
+            "seed": 54,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_544",
+            "seed": 54,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_545",
+            "seed": 54,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_546",
+            "seed": 54,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_547",
+            "seed": 54,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_548",
+            "seed": 54,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_549",
+            "seed": 54,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_55",
+            "seed": 5,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_550",
+            "seed": 55,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_551",
+            "seed": 55,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_552",
+            "seed": 55,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_553",
+            "seed": 55,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_554",
+            "seed": 55,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_555",
+            "seed": 55,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_556",
+            "seed": 55,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_557",
+            "seed": 55,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_558",
+            "seed": 55,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_559",
+            "seed": 55,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_56",
+            "seed": 5,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_560",
+            "seed": 56,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_561",
+            "seed": 56,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_562",
+            "seed": 56,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_563",
+            "seed": 56,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_564",
+            "seed": 56,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_565",
+            "seed": 56,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_566",
+            "seed": 56,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_567",
+            "seed": 56,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_568",
+            "seed": 56,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_569",
+            "seed": 56,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_57",
+            "seed": 5,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_570",
+            "seed": 57,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_571",
+            "seed": 57,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_572",
+            "seed": 57,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_573",
+            "seed": 57,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_574",
+            "seed": 57,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_575",
+            "seed": 57,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_576",
+            "seed": 57,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_577",
+            "seed": 57,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_578",
+            "seed": 57,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_579",
+            "seed": 57,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_58",
+            "seed": 5,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_580",
+            "seed": 58,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_581",
+            "seed": 58,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_582",
+            "seed": 58,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_583",
+            "seed": 58,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_584",
+            "seed": 58,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_585",
+            "seed": 58,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_586",
+            "seed": 58,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_587",
+            "seed": 58,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_588",
+            "seed": 58,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_589",
+            "seed": 58,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_59",
+            "seed": 5,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_590",
+            "seed": 59,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_591",
+            "seed": 59,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_592",
+            "seed": 59,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_593",
+            "seed": 59,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_594",
+            "seed": 59,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_595",
+            "seed": 59,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_596",
+            "seed": 59,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_597",
+            "seed": 59,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_598",
+            "seed": 59,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_599",
+            "seed": 59,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_6",
+            "seed": 0,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_60",
+            "seed": 6,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_600",
+            "seed": 60,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_601",
+            "seed": 60,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_602",
+            "seed": 60,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_603",
+            "seed": 60,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_604",
+            "seed": 60,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_605",
+            "seed": 60,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_606",
+            "seed": 60,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_607",
+            "seed": 60,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_608",
+            "seed": 60,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_609",
+            "seed": 60,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_61",
+            "seed": 6,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_610",
+            "seed": 61,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_611",
+            "seed": 61,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_612",
+            "seed": 61,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_613",
+            "seed": 61,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_614",
+            "seed": 61,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_615",
+            "seed": 61,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_616",
+            "seed": 61,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_617",
+            "seed": 61,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_618",
+            "seed": 61,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_619",
+            "seed": 61,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_62",
+            "seed": 6,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_620",
+            "seed": 62,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_621",
+            "seed": 62,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_622",
+            "seed": 62,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_623",
+            "seed": 62,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_624",
+            "seed": 62,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_625",
+            "seed": 62,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_626",
+            "seed": 62,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_627",
+            "seed": 62,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_628",
+            "seed": 62,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_629",
+            "seed": 62,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_63",
+            "seed": 6,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_630",
+            "seed": 63,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_631",
+            "seed": 63,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_632",
+            "seed": 63,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_633",
+            "seed": 63,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_634",
+            "seed": 63,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_635",
+            "seed": 63,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_636",
+            "seed": 63,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_637",
+            "seed": 63,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_638",
+            "seed": 63,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_639",
+            "seed": 63,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_64",
+            "seed": 6,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_640",
+            "seed": 64,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_641",
+            "seed": 64,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_642",
+            "seed": 64,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_643",
+            "seed": 64,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_644",
+            "seed": 64,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_645",
+            "seed": 64,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_646",
+            "seed": 64,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_647",
+            "seed": 64,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_648",
+            "seed": 64,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_649",
+            "seed": 64,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_65",
+            "seed": 6,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_650",
+            "seed": 65,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_651",
+            "seed": 65,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_652",
+            "seed": 65,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_653",
+            "seed": 65,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_654",
+            "seed": 65,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_655",
+            "seed": 65,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_656",
+            "seed": 65,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_657",
+            "seed": 65,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_658",
+            "seed": 65,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_659",
+            "seed": 65,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_66",
+            "seed": 6,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_660",
+            "seed": 66,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_661",
+            "seed": 66,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_662",
+            "seed": 66,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_663",
+            "seed": 66,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_664",
+            "seed": 66,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_665",
+            "seed": 66,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_666",
+            "seed": 66,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_667",
+            "seed": 66,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_668",
+            "seed": 66,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_669",
+            "seed": 66,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_67",
+            "seed": 6,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_670",
+            "seed": 67,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_672",
+            "seed": 67,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_673",
+            "seed": 67,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_674",
+            "seed": 67,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_675",
+            "seed": 67,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_676",
+            "seed": 67,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_677",
+            "seed": 67,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_678",
+            "seed": 67,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_679",
+            "seed": 67,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_68",
+            "seed": 6,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_680",
+            "seed": 68,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_681",
+            "seed": 68,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_682",
+            "seed": 68,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_683",
+            "seed": 68,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_684",
+            "seed": 68,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_685",
+            "seed": 68,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_686",
+            "seed": 68,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_687",
+            "seed": 68,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_688",
+            "seed": 68,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_689",
+            "seed": 68,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_69",
+            "seed": 6,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_690",
+            "seed": 69,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_691",
+            "seed": 69,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_692",
+            "seed": 69,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_693",
+            "seed": 69,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_694",
+            "seed": 69,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_695",
+            "seed": 69,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_696",
+            "seed": 69,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_697",
+            "seed": 69,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_698",
+            "seed": 69,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_699",
+            "seed": 69,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_7",
+            "seed": 0,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_70",
+            "seed": 7,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_700",
+            "seed": 70,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_701",
+            "seed": 70,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_702",
+            "seed": 70,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_703",
+            "seed": 70,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_704",
+            "seed": 70,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_705",
+            "seed": 70,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_706",
+            "seed": 70,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_707",
+            "seed": 70,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_708",
+            "seed": 70,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_709",
+            "seed": 70,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_71",
+            "seed": 7,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_710",
+            "seed": 71,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_711",
+            "seed": 71,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_712",
+            "seed": 71,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_713",
+            "seed": 71,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_714",
+            "seed": 71,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_715",
+            "seed": 71,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_716",
+            "seed": 71,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_717",
+            "seed": 71,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_718",
+            "seed": 71,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_719",
+            "seed": 71,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_72",
+            "seed": 7,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_720",
+            "seed": 72,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_721",
+            "seed": 72,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_722",
+            "seed": 72,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_723",
+            "seed": 72,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_724",
+            "seed": 72,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_725",
+            "seed": 72,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_726",
+            "seed": 72,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_727",
+            "seed": 72,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_728",
+            "seed": 72,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_729",
+            "seed": 72,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_73",
+            "seed": 7,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_730",
+            "seed": 73,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_731",
+            "seed": 73,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_732",
+            "seed": 73,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_733",
+            "seed": 73,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_734",
+            "seed": 73,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_735",
+            "seed": 73,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_736",
+            "seed": 73,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_737",
+            "seed": 73,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_738",
+            "seed": 73,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_739",
+            "seed": 73,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_74",
+            "seed": 7,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_740",
+            "seed": 74,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_741",
+            "seed": 74,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_742",
+            "seed": 74,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_743",
+            "seed": 74,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_744",
+            "seed": 74,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_745",
+            "seed": 74,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_746",
+            "seed": 74,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_747",
+            "seed": 74,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_748",
+            "seed": 74,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_749",
+            "seed": 74,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_75",
+            "seed": 7,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_750",
+            "seed": 75,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_751",
+            "seed": 75,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_752",
+            "seed": 75,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_753",
+            "seed": 75,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_754",
+            "seed": 75,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_755",
+            "seed": 75,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_756",
+            "seed": 75,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_757",
+            "seed": 75,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_758",
+            "seed": 75,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_759",
+            "seed": 75,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_76",
+            "seed": 7,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_761",
+            "seed": 76,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_762",
+            "seed": 76,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_763",
+            "seed": 76,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_764",
+            "seed": 76,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_765",
+            "seed": 76,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_766",
+            "seed": 76,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_767",
+            "seed": 76,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_768",
+            "seed": 76,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_769",
+            "seed": 76,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_77",
+            "seed": 7,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_770",
+            "seed": 77,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_771",
+            "seed": 77,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_772",
+            "seed": 77,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_773",
+            "seed": 77,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_774",
+            "seed": 77,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_775",
+            "seed": 77,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_776",
+            "seed": 77,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_777",
+            "seed": 77,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_778",
+            "seed": 77,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_779",
+            "seed": 77,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_78",
+            "seed": 7,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_780",
+            "seed": 78,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_781",
+            "seed": 78,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_782",
+            "seed": 78,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_783",
+            "seed": 78,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_784",
+            "seed": 78,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_785",
+            "seed": 78,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_786",
+            "seed": 78,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_787",
+            "seed": 78,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_788",
+            "seed": 78,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_789",
+            "seed": 78,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_79",
+            "seed": 7,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_790",
+            "seed": 79,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_791",
+            "seed": 79,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_792",
+            "seed": 79,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_793",
+            "seed": 79,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_794",
+            "seed": 79,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_795",
+            "seed": 79,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_796",
+            "seed": 79,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_797",
+            "seed": 79,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_798",
+            "seed": 79,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_799",
+            "seed": 79,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_8",
+            "seed": 0,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_80",
+            "seed": 8,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_800",
+            "seed": 80,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_801",
+            "seed": 80,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_802",
+            "seed": 80,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_803",
+            "seed": 80,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_804",
+            "seed": 80,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_805",
+            "seed": 80,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_806",
+            "seed": 80,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_807",
+            "seed": 80,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_808",
+            "seed": 80,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_809",
+            "seed": 80,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_81",
+            "seed": 8,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_810",
+            "seed": 81,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_811",
+            "seed": 81,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_812",
+            "seed": 81,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_813",
+            "seed": 81,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_814",
+            "seed": 81,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_815",
+            "seed": 81,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_816",
+            "seed": 81,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_817",
+            "seed": 81,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_818",
+            "seed": 81,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_819",
+            "seed": 81,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_82",
+            "seed": 8,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_820",
+            "seed": 82,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_821",
+            "seed": 82,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_822",
+            "seed": 82,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_823",
+            "seed": 82,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_824",
+            "seed": 82,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_825",
+            "seed": 82,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_826",
+            "seed": 82,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_827",
+            "seed": 82,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_828",
+            "seed": 82,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_829",
+            "seed": 82,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_83",
+            "seed": 8,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_830",
+            "seed": 83,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_831",
+            "seed": 83,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_832",
+            "seed": 83,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_833",
+            "seed": 83,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_834",
+            "seed": 83,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_835",
+            "seed": 83,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_836",
+            "seed": 83,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_837",
+            "seed": 83,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_838",
+            "seed": 83,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_839",
+            "seed": 83,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_84",
+            "seed": 8,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_840",
+            "seed": 84,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_841",
+            "seed": 84,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_842",
+            "seed": 84,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_843",
+            "seed": 84,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_844",
+            "seed": 84,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_845",
+            "seed": 84,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_846",
+            "seed": 84,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_847",
+            "seed": 84,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_848",
+            "seed": 84,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_849",
+            "seed": 84,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_85",
+            "seed": 8,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_850",
+            "seed": 85,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_851",
+            "seed": 85,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_852",
+            "seed": 85,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_853",
+            "seed": 85,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_854",
+            "seed": 85,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_855",
+            "seed": 85,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_856",
+            "seed": 85,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_857",
+            "seed": 85,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_858",
+            "seed": 85,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_859",
+            "seed": 85,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_86",
+            "seed": 8,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_860",
+            "seed": 86,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_861",
+            "seed": 86,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_862",
+            "seed": 86,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_863",
+            "seed": 86,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_864",
+            "seed": 86,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_865",
+            "seed": 86,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_866",
+            "seed": 86,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_867",
+            "seed": 86,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_868",
+            "seed": 86,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_869",
+            "seed": 86,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_87",
+            "seed": 8,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_870",
+            "seed": 87,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_871",
+            "seed": 87,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_872",
+            "seed": 87,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_873",
+            "seed": 87,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_874",
+            "seed": 87,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_875",
+            "seed": 87,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_876",
+            "seed": 87,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_877",
+            "seed": 87,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_878",
+            "seed": 87,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_879",
+            "seed": 87,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_88",
+            "seed": 8,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_880",
+            "seed": 88,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_881",
+            "seed": 88,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_882",
+            "seed": 88,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_883",
+            "seed": 88,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_884",
+            "seed": 88,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_885",
+            "seed": 88,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_886",
+            "seed": 88,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_887",
+            "seed": 88,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_888",
+            "seed": 88,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_889",
+            "seed": 88,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_89",
+            "seed": 8,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_890",
+            "seed": 89,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_891",
+            "seed": 89,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_892",
+            "seed": 89,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_893",
+            "seed": 89,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_894",
+            "seed": 89,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_895",
+            "seed": 89,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_896",
+            "seed": 89,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_897",
+            "seed": 89,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_898",
+            "seed": 89,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_899",
+            "seed": 89,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_9",
+            "seed": 0,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_90",
+            "seed": 9,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_900",
+            "seed": 90,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_901",
+            "seed": 90,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_902",
+            "seed": 90,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_903",
+            "seed": 90,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_904",
+            "seed": 90,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_905",
+            "seed": 90,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_906",
+            "seed": 90,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_907",
+            "seed": 90,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_908",
+            "seed": 90,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_909",
+            "seed": 90,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_91",
+            "seed": 9,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_910",
+            "seed": 91,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_911",
+            "seed": 91,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_912",
+            "seed": 91,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_913",
+            "seed": 91,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_914",
+            "seed": 91,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_915",
+            "seed": 91,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_916",
+            "seed": 91,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_917",
+            "seed": 91,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_918",
+            "seed": 91,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_919",
+            "seed": 91,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_92",
+            "seed": 9,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_920",
+            "seed": 92,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_921",
+            "seed": 92,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_922",
+            "seed": 92,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_923",
+            "seed": 92,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_924",
+            "seed": 92,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_925",
+            "seed": 92,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_926",
+            "seed": 92,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_927",
+            "seed": 92,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_928",
+            "seed": 92,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_929",
+            "seed": 92,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_93",
+            "seed": 9,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_930",
+            "seed": 93,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_931",
+            "seed": 93,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_932",
+            "seed": 93,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_933",
+            "seed": 93,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_934",
+            "seed": 93,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_935",
+            "seed": 93,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_936",
+            "seed": 93,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_937",
+            "seed": 93,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_938",
+            "seed": 93,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_939",
+            "seed": 93,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_94",
+            "seed": 9,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_940",
+            "seed": 94,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_941",
+            "seed": 94,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_942",
+            "seed": 94,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_943",
+            "seed": 94,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_944",
+            "seed": 94,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_945",
+            "seed": 94,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_946",
+            "seed": 94,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_947",
+            "seed": 94,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_948",
+            "seed": 94,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_949",
+            "seed": 94,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_95",
+            "seed": 9,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_950",
+            "seed": 95,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_951",
+            "seed": 95,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_952",
+            "seed": 95,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_953",
+            "seed": 95,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_954",
+            "seed": 95,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_955",
+            "seed": 95,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_957",
+            "seed": 95,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_958",
+            "seed": 95,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_959",
+            "seed": 95,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_96",
+            "seed": 9,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_960",
+            "seed": 96,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_961",
+            "seed": 96,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_962",
+            "seed": 96,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_963",
+            "seed": 96,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_964",
+            "seed": 96,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_965",
+            "seed": 96,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_966",
+            "seed": 96,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_967",
+            "seed": 96,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_968",
+            "seed": 96,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_969",
+            "seed": 96,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_97",
+            "seed": 9,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_970",
+            "seed": 97,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_971",
+            "seed": 97,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_972",
+            "seed": 97,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_973",
+            "seed": 97,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_974",
+            "seed": 97,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_975",
+            "seed": 97,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_976",
+            "seed": 97,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_977",
+            "seed": 97,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_978",
+            "seed": 97,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_979",
+            "seed": 97,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_98",
+            "seed": 9,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_980",
+            "seed": 98,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_981",
+            "seed": 98,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_982",
+            "seed": 98,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_983",
+            "seed": 98,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_984",
+            "seed": 98,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_985",
+            "seed": 98,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_986",
+            "seed": 98,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_987",
+            "seed": 98,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_988",
+            "seed": 98,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_989",
+            "seed": 98,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_99",
+            "seed": 9,
+            "task": "peg-unplug-side-v1"
+        },
+        {
+            "folder": "single_990",
+            "seed": 99,
+            "task": "hammer-v1"
+        },
+        {
+            "folder": "single_991",
+            "seed": 99,
+            "task": "push-wall-v1"
+        },
+        {
+            "folder": "single_992",
+            "seed": 99,
+            "task": "faucet-close-v1"
+        },
+        {
+            "folder": "single_993",
+            "seed": 99,
+            "task": "push-back-v1"
+        },
+        {
+            "folder": "single_994",
+            "seed": 99,
+            "task": "stick-pull-v1"
+        },
+        {
+            "folder": "single_995",
+            "seed": 99,
+            "task": "handle-press-side-v1"
+        },
+        {
+            "folder": "single_996",
+            "seed": 99,
+            "task": "push-v1"
+        },
+        {
+            "folder": "single_997",
+            "seed": 99,
+            "task": "shelf-place-v1"
+        },
+        {
+            "folder": "single_998",
+            "seed": 99,
+            "task": "window-close-v1"
+        },
+        {
+            "folder": "single_999",
+            "seed": 99,
+            "task": "peg-unplug-side-v1"
+        }
+    ]
+}

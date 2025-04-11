@@ -1,0 +1,650 @@
+[
+    {
+        "cl_seed": 4,
+        "buffer_type": "fifo",
+        "cl_method": null,
+        "Final performance": [
+            0.05,
+            0.08,
+            0.1,
+            0.1,
+            0.08,
+            0.1,
+            0.09,
+            0.04,
+            0.09,
+            0.1
+        ],
+        "Final epoch performance": 0.1,
+        "Final forgetting": 0.7300000000000001,
+        "Final backward transfer": -0.8111111111111112,
+        "Final forward transfer": -0.017249999999999995
+    },
+    {
+        "cl_seed": 24,
+        "buffer_type": "fifo",
+        "cl_method": "l2",
+        "Final performance": [
+            0.05,
+            0.12000000000000002,
+            0.2,
+            0.26,
+            0.30999999999999994,
+            0.32999999999999996,
+            0.44000000000000006,
+            0.44000000000000006,
+            0.39,
+            0.53
+        ],
+        "Final epoch performance": 0.53,
+        "Final forgetting": 0.019999999999999997,
+        "Final backward transfer": -0.022222222222222216,
+        "Final forward transfer": -0.25434999999999997
+    },
+    {
+        "cl_seed": 44,
+        "buffer_type": "fifo",
+        "cl_method": "ewc",
+        "Final performance": [
+            0.05,
+            0.08,
+            0.1,
+            0.1,
+            0.15,
+            0.22000000000000003,
+            0.32999999999999996,
+            0.29,
+            0.41,
+            0.47000000000000003
+        ],
+        "Final epoch performance": 0.47000000000000003,
+        "Final forgetting": 0.18000000000000002,
+        "Final backward transfer": -0.20000000000000004,
+        "Final forward transfer": -0.17648000000000003
+    },
+    {
+        "cl_seed": 64,
+        "buffer_type": "fifo",
+        "cl_method": "mas",
+        "Final performance": [
+            0.05,
+            0.14999999999999997,
+            0.16,
+            0.17,
+            0.16,
+            0.21000000000000002,
+            0.33,
+            0.27999999999999997,
+            0.4,
+            0.41000000000000003
+        ],
+        "Final epoch performance": 0.41000000000000003,
+        "Final forgetting": 0.09,
+        "Final backward transfer": -0.09999999999999999,
+        "Final forward transfer": -0.29177
+    },
+    {
+        "cl_seed": 84,
+        "buffer_type": "fifo",
+        "cl_method": "vcl",
+        "Final performance": [
+            0.1,
+            0.12,
+            0.21000000000000002,
+            0.29,
+            0.32,
+            0.36,
+            0.39,
+            0.43,
+            0.48,
+            0.7
+        ],
+        "Final epoch performance": 0.7,
+        "Final forgetting": -0.08,
+        "Final backward transfer": 0.08888888888888889,
+        "Final forward transfer": -0.19613
+    },
+    {
+        "cl_seed": 104,
+        "buffer_type": "fifo",
+        "cl_method": "packnet",
+        "Final performance": [
+            0.08,
+            0.18,
+            0.27,
+            0.36,
+            0.33999999999999997,
+            0.47000000000000003,
+            0.55,
+            0.54,
+            0.64,
+            0.74
+        ],
+        "Final epoch performance": 0.74,
+        "Final forgetting": 0.05,
+        "Final backward transfer": -0.05555555555555555,
+        "Final forward transfer": -0.03435
+    },
+    {
+        "cl_seed": 124,
+        "buffer_type": "reservoir",
+        "cl_method": null,
+        "Final performance": [
+            0.1,
+            0.11000000000000001,
+            0.25,
+            0.22999999999999998,
+            0.19,
+            0.29000000000000004,
+            0.13999999999999999,
+            0.16999999999999998,
+            0.27999999999999997,
+            0.35
+        ],
+        "Final epoch performance": 0.35,
+        "Final forgetting": -0.059999999999999984,
+        "Final backward transfer": 0.06666666666666665,
+        "Final forward transfer": -0.52294
+    },
+    {
+        "cl_seed": 144,
+        "buffer_type": "fifo",
+        "cl_method": "agem",
+        "Final performance": [
+            0.05,
+            0.08,
+            0.11000000000000001,
+            0.12,
+            0.1,
+            0.1,
+            0.15,
+            0.01,
+            0.09,
+            0.15
+        ],
+        "Final epoch performance": 0.15,
+        "Final forgetting": 0.66,
+        "Final backward transfer": -0.7333333333333334,
+        "Final forward transfer": -0.04505
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": null,
+        "Final performance": [
+            0.05,
+            0.08,
+            0.1,
+            0.1,
+            0.08,
+            0.1,
+            0.09,
+            0.04,
+            0.09,
+            0.1
+        ],
+        "Final epoch performance": 0.1,
+        "Final forgetting": 0.7300000000000001,
+        "Final backward transfer": -0.8111111111111112,
+        "Final forward transfer": -0.017249999999999995
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "l2",
+        "Final performance": [
+            0.05,
+            0.12000000000000002,
+            0.2,
+            0.26,
+            0.30999999999999994,
+            0.32999999999999996,
+            0.44000000000000006,
+            0.44000000000000006,
+            0.39,
+            0.53
+        ],
+        "Final epoch performance": 0.53,
+        "Final forgetting": 0.019999999999999997,
+        "Final backward transfer": -0.022222222222222216,
+        "Final forward transfer": -0.25434999999999997
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "ewc",
+        "Final performance": [
+            0.05,
+            0.08,
+            0.1,
+            0.1,
+            0.15,
+            0.22000000000000003,
+            0.32999999999999996,
+            0.29,
+            0.41,
+            0.47000000000000003
+        ],
+        "Final epoch performance": 0.47000000000000003,
+        "Final forgetting": 0.18000000000000002,
+        "Final backward transfer": -0.20000000000000004,
+        "Final forward transfer": -0.17648000000000003
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "mas",
+        "Final performance": [
+            0.05,
+            0.14999999999999997,
+            0.16,
+            0.17,
+            0.16,
+            0.21000000000000002,
+            0.33,
+            0.27999999999999997,
+            0.4,
+            0.41000000000000003
+        ],
+        "Final epoch performance": 0.41000000000000003,
+        "Final forgetting": 0.09,
+        "Final backward transfer": -0.09999999999999999,
+        "Final forward transfer": -0.29177
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "vcl",
+        "Final performance": [
+            0.1,
+            0.12,
+            0.21000000000000002,
+            0.29,
+            0.32,
+            0.36,
+            0.39,
+            0.43,
+            0.48,
+            0.7
+        ],
+        "Final epoch performance": 0.7,
+        "Final forgetting": -0.08,
+        "Final backward transfer": 0.08888888888888889,
+        "Final forward transfer": -0.19613
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "packnet",
+        "Final performance": [
+            0.08,
+            0.18,
+            0.27,
+            0.36,
+            0.33999999999999997,
+            0.47000000000000003,
+            0.55,
+            0.54,
+            0.64,
+            0.74
+        ],
+        "Final epoch performance": 0.74,
+        "Final forgetting": 0.05,
+        "Final backward transfer": -0.05555555555555555,
+        "Final forward transfer": -0.03435
+    },
+    {
+        "buffer_type": "reservoir",
+        "cl_method": null,
+        "Final performance": [
+            0.1,
+            0.11000000000000001,
+            0.25,
+            0.22999999999999998,
+            0.19,
+            0.29000000000000004,
+            0.13999999999999999,
+            0.16999999999999998,
+            0.27999999999999997,
+            0.35
+        ],
+        "Final epoch performance": 0.35,
+        "Final forgetting": -0.059999999999999984,
+        "Final backward transfer": 0.06666666666666665,
+        "Final forward transfer": -0.52294
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "agem",
+        "Final performance": [
+            0.05,
+            0.08,
+            0.11000000000000001,
+            0.12,
+            0.1,
+            0.1,
+            0.15,
+            0.01,
+            0.09,
+            0.15
+        ],
+        "Final epoch performance": 0.15,
+        "Final forgetting": 0.66,
+        "Final backward transfer": -0.7333333333333334,
+        "Final forward transfer": -0.04505
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": null,
+        "Final performance": [
+            0.05,
+            0.08,
+            0.1,
+            0.1,
+            0.08,
+            0.1,
+            0.09,
+            0.04,
+            0.09,
+            0.1
+        ],
+        "Final epoch performance": 0.1,
+        "Final forgetting": 0.7300000000000001,
+        "Final backward transfer": -0.8111111111111112,
+        "Final forward transfer": -0.017249999999999995
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "l2",
+        "Final performance": [
+            0.05,
+            0.12000000000000002,
+            0.2,
+            0.26,
+            0.30999999999999994,
+            0.32999999999999996,
+            0.44000000000000006,
+            0.44000000000000006,
+            0.39,
+            0.53
+        ],
+        "Final epoch performance": 0.53,
+        "Final forgetting": 0.019999999999999997,
+        "Final backward transfer": -0.022222222222222216,
+        "Final forward transfer": -0.25434999999999997
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "ewc",
+        "Final performance": [
+            0.05,
+            0.08,
+            0.1,
+            0.1,
+            0.15,
+            0.22000000000000003,
+            0.32999999999999996,
+            0.29,
+            0.41,
+            0.47000000000000003
+        ],
+        "Final epoch performance": 0.47000000000000003,
+        "Final forgetting": 0.18000000000000002,
+        "Final backward transfer": -0.20000000000000004,
+        "Final forward transfer": -0.17648000000000003
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "mas",
+        "Final performance": [
+            0.05,
+            0.14999999999999997,
+            0.16,
+            0.17,
+            0.16,
+            0.21000000000000002,
+            0.33,
+            0.27999999999999997,
+            0.4,
+            0.41000000000000003
+        ],
+        "Final epoch performance": 0.41000000000000003,
+        "Final forgetting": 0.09,
+        "Final backward transfer": -0.09999999999999999,
+        "Final forward transfer": -0.29177
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "vcl",
+        "Final performance": [
+            0.1,
+            0.12,
+            0.21000000000000002,
+            0.29,
+            0.32,
+            0.36,
+            0.39,
+            0.43,
+            0.48,
+            0.7
+        ],
+        "Final epoch performance": 0.7,
+        "Final forgetting": -0.08,
+        "Final backward transfer": 0.08888888888888889,
+        "Final forward transfer": -0.19613
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "packnet",
+        "Final performance": [
+            0.08,
+            0.18,
+            0.27,
+            0.36,
+            0.33999999999999997,
+            0.47000000000000003,
+            0.55,
+            0.54,
+            0.64,
+            0.74
+        ],
+        "Final epoch performance": 0.74,
+        "Final forgetting": 0.05,
+        "Final backward transfer": -0.05555555555555555,
+        "Final forward transfer": -0.03435
+    },
+    {
+        "buffer_type": "reservoir",
+        "cl_method": null,
+        "Final performance": [
+            0.1,
+            0.11000000000000001,
+            0.25,
+            0.22999999999999998,
+            0.19,
+            0.29000000000000004,
+            0.13999999999999999,
+            0.16999999999999998,
+            0.27999999999999997,
+            0.35
+        ],
+        "Final epoch performance": 0.35,
+        "Final forgetting": -0.059999999999999984,
+        "Final backward transfer": 0.06666666666666665,
+        "Final forward transfer": -0.52294
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "agem",
+        "Final performance": [
+            0.05,
+            0.08,
+            0.11000000000000001,
+            0.12,
+            0.1,
+            0.1,
+            0.15,
+            0.01,
+            0.09,
+            0.15
+        ],
+        "Final epoch performance": 0.15,
+        "Final forgetting": 0.66,
+        "Final backward transfer": -0.7333333333333334,
+        "Final forward transfer": -0.04505
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": null,
+        "Final performance": [
+            0.05,
+            0.08,
+            0.1,
+            0.1,
+            0.08,
+            0.1,
+            0.09,
+            0.04,
+            0.09,
+            0.1
+        ],
+        "Final epoch performance": 0.1,
+        "Final forgetting": 0.7300000000000001,
+        "Final backward transfer": -0.8111111111111112,
+        "Final forward transfer": -0.017249999999999995
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "l2",
+        "Final performance": [
+            0.05,
+            0.12000000000000002,
+            0.2,
+            0.26,
+            0.30999999999999994,
+            0.32999999999999996,
+            0.44000000000000006,
+            0.44000000000000006,
+            0.39,
+            0.53
+        ],
+        "Final epoch performance": 0.53,
+        "Final forgetting": 0.019999999999999997,
+        "Final backward transfer": -0.022222222222222216,
+        "Final forward transfer": -0.25434999999999997
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "ewc",
+        "Final performance": [
+            0.05,
+            0.08,
+            0.1,
+            0.1,
+            0.15,
+            0.22000000000000003,
+            0.32999999999999996,
+            0.29,
+            0.41,
+            0.47000000000000003
+        ],
+        "Final epoch performance": 0.47000000000000003,
+        "Final forgetting": 0.18000000000000002,
+        "Final backward transfer": -0.20000000000000004,
+        "Final forward transfer": -0.17648000000000003
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "mas",
+        "Final performance": [
+            0.05,
+            0.14999999999999997,
+            0.16,
+            0.17,
+            0.16,
+            0.21000000000000002,
+            0.33,
+            0.27999999999999997,
+            0.4,
+            0.41000000000000003
+        ],
+        "Final epoch performance": 0.41000000000000003,
+        "Final forgetting": 0.09,
+        "Final backward transfer": -0.09999999999999999,
+        "Final forward transfer": -0.29177
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "vcl",
+        "Final performance": [
+            0.1,
+            0.12,
+            0.21000000000000002,
+            0.29,
+            0.32,
+            0.36,
+            0.39,
+            0.43,
+            0.48,
+            0.7
+        ],
+        "Final epoch performance": 0.7,
+        "Final forgetting": -0.08,
+        "Final backward transfer": 0.08888888888888889,
+        "Final forward transfer": -0.19613
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "packnet",
+        "Final performance": [
+            0.08,
+            0.18,
+            0.27,
+            0.36,
+            0.33999999999999997,
+            0.47000000000000003,
+            0.55,
+            0.54,
+            0.64,
+            0.74
+        ],
+        "Final epoch performance": 0.74,
+        "Final forgetting": 0.05,
+        "Final backward transfer": -0.05555555555555555,
+        "Final forward transfer": -0.03435
+    },
+    {
+        "buffer_type": "reservoir",
+        "cl_method": null,
+        "Final performance": [
+            0.1,
+            0.11000000000000001,
+            0.25,
+            0.22999999999999998,
+            0.19,
+            0.29000000000000004,
+            0.13999999999999999,
+            0.16999999999999998,
+            0.27999999999999997,
+            0.35
+        ],
+        "Final epoch performance": 0.35,
+        "Final forgetting": -0.059999999999999984,
+        "Final backward transfer": 0.06666666666666665,
+        "Final forward transfer": -0.52294
+    },
+    {
+        "buffer_type": "fifo",
+        "cl_method": "agem",
+        "Final performance": [
+            0.05,
+            0.08,
+            0.11000000000000001,
+            0.12,
+            0.1,
+            0.1,
+            0.15,
+            0.01,
+            0.09,
+            0.15
+        ],
+        "Final epoch performance": 0.15,
+        "Final forgetting": 0.66,
+        "Final backward transfer": -0.7333333333333334,
+        "Final forward transfer": -0.04505
+    }
+]

@@ -1,0 +1,78 @@
+{
+    "folder_task_dict": {
+        "40": {
+            "folder": "single_40",
+            "task": "hammer-v1",
+            "success_rate": 0.2
+        },
+        "41": {
+            "folder": "single_41",
+            "task": "push-wall-v1",
+            "success_rate": 0.9
+        },
+        "42": {
+            "folder": "single_42",
+            "task": "faucet-close-v1",
+            "success_rate": 1.0
+        },
+        "43": {
+            "folder": "single_43",
+            "task": "push-back-v1",
+            "success_rate": 1.0
+        },
+        "44": {
+            "folder": "single_44",
+            "task": "stick-pull-v1",
+            "success_rate": 0.1
+        },
+        "45": {
+            "folder": "single_45",
+            "task": "handle-press-side-v1",
+            "success_rate": 1.0
+        },
+        "46": {
+            "folder": "single_46",
+            "task": "push-v1",
+            "success_rate": 0.8
+        },
+        "47": {
+            "folder": "single_47",
+            "task": "shelf-place-v1",
+            "success_rate": 1.0
+        },
+        "48": {
+            "folder": "single_48",
+            "task": "window-close-v1",
+            "success_rate": 1.0
+        },
+        "49": {
+            "folder": "single_49",
+            "task": "peg-unplug-side-v1",
+            "success_rate": 1.0
+        }
+    },
+    "ordered_tasks": [
+        "hammer-v1",
+        "push-wall-v1",
+        "faucet-close-v1",
+        "push-back-v1",
+        "stick-pull-v1",
+        "handle-press-side-v1",
+        "push-v1",
+        "shelf-place-v1",
+        "window-close-v1",
+        "peg-unplug-side-v1"
+    ],
+    "single_success": [
+        0.2,
+        0.9,
+        1.0,
+        1.0,
+        0.1,
+        1.0,
+        0.8,
+        1.0,
+        1.0,
+        1.0
+    ]
+}

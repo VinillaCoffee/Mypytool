@@ -1,0 +1,830 @@
+{
+    "average_success": [
+        0.85,
+        0.71,
+        0.8699999999999999,
+        0.68,
+        0.6,
+        0.7899999999999999,
+        0.8699999999999999,
+        0.27,
+        0.89,
+        0.8
+    ],
+    "std_success": [
+        0.30083217912982646,
+        0.14456832294800961,
+        0.30347981810987035,
+        0.44676615807377357,
+        0.2683281572999748,
+        0.31448370387032776,
+        0.10049875621120889,
+        0.35510561809129404,
+        0.15132745950421558,
+        0.4000000000000001
+    ],
+    "all_seeds_data": {
+        "0": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "0": {
+                        "folder": "single_0",
+                        "task": "hammer-v1",
+                        "success_rate": 1.0
+                    },
+                    "1": {
+                        "folder": "single_1",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.6
+                    },
+                    "2": {
+                        "folder": "single_2",
+                        "task": "faucet-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "3": {
+                        "folder": "single_3",
+                        "task": "push-back-v1",
+                        "success_rate": 1.0
+                    },
+                    "4": {
+                        "folder": "single_4",
+                        "task": "stick-pull-v1",
+                        "success_rate": 0.7
+                    },
+                    "5": {
+                        "folder": "single_5",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 1.0
+                    },
+                    "6": {
+                        "folder": "single_6",
+                        "task": "push-v1",
+                        "success_rate": 1.0
+                    },
+                    "7": {
+                        "folder": "single_7",
+                        "task": "shelf-place-v1",
+                        "success_rate": 0.0
+                    },
+                    "8": {
+                        "folder": "single_8",
+                        "task": "window-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "9": {
+                        "folder": "single_9",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 0.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                1.0,
+                0.6,
+                1.0,
+                1.0,
+                0.7,
+                1.0,
+                1.0,
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        "1": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "10": {
+                        "folder": "single_10",
+                        "task": "hammer-v1",
+                        "success_rate": 1.0
+                    },
+                    "11": {
+                        "folder": "single_11",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.7
+                    },
+                    "12": {
+                        "folder": "single_12",
+                        "task": "faucet-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "13": {
+                        "folder": "single_13",
+                        "task": "push-back-v1",
+                        "success_rate": 0.9
+                    },
+                    "14": {
+                        "folder": "single_14",
+                        "task": "stick-pull-v1",
+                        "success_rate": 1.0
+                    },
+                    "15": {
+                        "folder": "single_15",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 0.1
+                    },
+                    "16": {
+                        "folder": "single_16",
+                        "task": "push-v1",
+                        "success_rate": 1.0
+                    },
+                    "17": {
+                        "folder": "single_17",
+                        "task": "shelf-place-v1",
+                        "success_rate": 0.3
+                    },
+                    "18": {
+                        "folder": "single_18",
+                        "task": "window-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "19": {
+                        "folder": "single_19",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 1.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                1.0,
+                0.7,
+                1.0,
+                0.9,
+                1.0,
+                0.1,
+                1.0,
+                0.3,
+                1.0,
+                1.0
+            ]
+        },
+        "2": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "20": {
+                        "folder": "single_20",
+                        "task": "hammer-v1",
+                        "success_rate": 1.0
+                    },
+                    "21": {
+                        "folder": "single_21",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.9
+                    },
+                    "22": {
+                        "folder": "single_22",
+                        "task": "faucet-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "23": {
+                        "folder": "single_23",
+                        "task": "push-back-v1",
+                        "success_rate": 0.0
+                    },
+                    "24": {
+                        "folder": "single_24",
+                        "task": "stick-pull-v1",
+                        "success_rate": 0.5
+                    },
+                    "25": {
+                        "folder": "single_25",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 1.0
+                    },
+                    "26": {
+                        "folder": "single_26",
+                        "task": "push-v1",
+                        "success_rate": 0.9
+                    },
+                    "27": {
+                        "folder": "single_27",
+                        "task": "shelf-place-v1",
+                        "success_rate": 0.8
+                    },
+                    "28": {
+                        "folder": "single_28",
+                        "task": "window-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "29": {
+                        "folder": "single_29",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 1.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                1.0,
+                0.9,
+                1.0,
+                0.0,
+                0.5,
+                1.0,
+                0.9,
+                0.8,
+                1.0,
+                1.0
+            ]
+        },
+        "3": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "30": {
+                        "folder": "single_30",
+                        "task": "hammer-v1",
+                        "success_rate": 1.0
+                    },
+                    "31": {
+                        "folder": "single_31",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.7
+                    },
+                    "32": {
+                        "folder": "single_32",
+                        "task": "faucet-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "33": {
+                        "folder": "single_33",
+                        "task": "push-back-v1",
+                        "success_rate": 1.0
+                    },
+                    "34": {
+                        "folder": "single_34",
+                        "task": "stick-pull-v1",
+                        "success_rate": 0.7
+                    },
+                    "35": {
+                        "folder": "single_35",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 1.0
+                    },
+                    "36": {
+                        "folder": "single_36",
+                        "task": "push-v1",
+                        "success_rate": 0.7
+                    },
+                    "37": {
+                        "folder": "single_37",
+                        "task": "shelf-place-v1",
+                        "success_rate": 0.1
+                    },
+                    "38": {
+                        "folder": "single_38",
+                        "task": "window-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "39": {
+                        "folder": "single_39",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 0.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                1.0,
+                0.7,
+                1.0,
+                1.0,
+                0.7,
+                1.0,
+                0.7,
+                0.1,
+                1.0,
+                0.0
+            ]
+        },
+        "4": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "40": {
+                        "folder": "single_40",
+                        "task": "hammer-v1",
+                        "success_rate": 0.2
+                    },
+                    "41": {
+                        "folder": "single_41",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.9
+                    },
+                    "42": {
+                        "folder": "single_42",
+                        "task": "faucet-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "43": {
+                        "folder": "single_43",
+                        "task": "push-back-v1",
+                        "success_rate": 1.0
+                    },
+                    "44": {
+                        "folder": "single_44",
+                        "task": "stick-pull-v1",
+                        "success_rate": 0.1
+                    },
+                    "45": {
+                        "folder": "single_45",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 1.0
+                    },
+                    "46": {
+                        "folder": "single_46",
+                        "task": "push-v1",
+                        "success_rate": 0.8
+                    },
+                    "47": {
+                        "folder": "single_47",
+                        "task": "shelf-place-v1",
+                        "success_rate": 1.0
+                    },
+                    "48": {
+                        "folder": "single_48",
+                        "task": "window-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "49": {
+                        "folder": "single_49",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 1.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                0.2,
+                0.9,
+                1.0,
+                1.0,
+                0.1,
+                1.0,
+                0.8,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        "5": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "50": {
+                        "folder": "single_50",
+                        "task": "hammer-v1",
+                        "success_rate": 1.0
+                    },
+                    "51": {
+                        "folder": "single_51",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.8
+                    },
+                    "52": {
+                        "folder": "single_52",
+                        "task": "faucet-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "53": {
+                        "folder": "single_53",
+                        "task": "push-back-v1",
+                        "success_rate": 0.0
+                    },
+                    "54": {
+                        "folder": "single_54",
+                        "task": "stick-pull-v1",
+                        "success_rate": 1.0
+                    },
+                    "55": {
+                        "folder": "single_55",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 1.0
+                    },
+                    "56": {
+                        "folder": "single_56",
+                        "task": "push-v1",
+                        "success_rate": 1.0
+                    },
+                    "57": {
+                        "folder": "single_57",
+                        "task": "shelf-place-v1",
+                        "success_rate": 0.0
+                    },
+                    "58": {
+                        "folder": "single_58",
+                        "task": "window-close-v1",
+                        "success_rate": 0.9
+                    },
+                    "59": {
+                        "folder": "single_59",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 1.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                1.0,
+                0.8,
+                1.0,
+                0.0,
+                1.0,
+                1.0,
+                1.0,
+                0.0,
+                0.9,
+                1.0
+            ]
+        },
+        "6": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "60": {
+                        "folder": "single_60",
+                        "task": "hammer-v1",
+                        "success_rate": 1.0
+                    },
+                    "61": {
+                        "folder": "single_61",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.4
+                    },
+                    "62": {
+                        "folder": "single_62",
+                        "task": "faucet-close-v1",
+                        "success_rate": 0.0
+                    },
+                    "63": {
+                        "folder": "single_63",
+                        "task": "push-back-v1",
+                        "success_rate": 0.0
+                    },
+                    "64": {
+                        "folder": "single_64",
+                        "task": "stick-pull-v1",
+                        "success_rate": 0.5
+                    },
+                    "65": {
+                        "folder": "single_65",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 1.0
+                    },
+                    "66": {
+                        "folder": "single_66",
+                        "task": "push-v1",
+                        "success_rate": 0.9
+                    },
+                    "67": {
+                        "folder": "single_67",
+                        "task": "shelf-place-v1",
+                        "success_rate": 0.0
+                    },
+                    "68": {
+                        "folder": "single_68",
+                        "task": "window-close-v1",
+                        "success_rate": 0.6
+                    },
+                    "69": {
+                        "folder": "single_69",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 1.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                1.0,
+                0.4,
+                0.0,
+                0.0,
+                0.5,
+                1.0,
+                0.9,
+                0.0,
+                0.6,
+                1.0
+            ]
+        },
+        "7": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "70": {
+                        "folder": "single_70",
+                        "task": "hammer-v1",
+                        "success_rate": 0.3
+                    },
+                    "71": {
+                        "folder": "single_71",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.8
+                    },
+                    "72": {
+                        "folder": "single_72",
+                        "task": "faucet-close-v1",
+                        "success_rate": 0.7
+                    },
+                    "73": {
+                        "folder": "single_73",
+                        "task": "push-back-v1",
+                        "success_rate": 1.0
+                    },
+                    "74": {
+                        "folder": "single_74",
+                        "task": "stick-pull-v1",
+                        "success_rate": 0.3
+                    },
+                    "75": {
+                        "folder": "single_75",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 0.8
+                    },
+                    "76": {
+                        "folder": "single_76",
+                        "task": "push-v1",
+                        "success_rate": 0.8
+                    },
+                    "77": {
+                        "folder": "single_77",
+                        "task": "shelf-place-v1",
+                        "success_rate": 0.0
+                    },
+                    "78": {
+                        "folder": "single_78",
+                        "task": "window-close-v1",
+                        "success_rate": 0.7
+                    },
+                    "79": {
+                        "folder": "single_79",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 1.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                0.3,
+                0.8,
+                0.7,
+                1.0,
+                0.3,
+                0.8,
+                0.8,
+                0.0,
+                0.7,
+                1.0
+            ]
+        },
+        "8": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "80": {
+                        "folder": "single_80",
+                        "task": "hammer-v1",
+                        "success_rate": 1.0
+                    },
+                    "81": {
+                        "folder": "single_81",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.6
+                    },
+                    "82": {
+                        "folder": "single_82",
+                        "task": "faucet-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "83": {
+                        "folder": "single_83",
+                        "task": "push-back-v1",
+                        "success_rate": 0.9
+                    },
+                    "84": {
+                        "folder": "single_84",
+                        "task": "stick-pull-v1",
+                        "success_rate": 0.5
+                    },
+                    "85": {
+                        "folder": "single_85",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 0.3
+                    },
+                    "86": {
+                        "folder": "single_86",
+                        "task": "push-v1",
+                        "success_rate": 0.8
+                    },
+                    "87": {
+                        "folder": "single_87",
+                        "task": "shelf-place-v1",
+                        "success_rate": 0.5
+                    },
+                    "88": {
+                        "folder": "single_88",
+                        "task": "window-close-v1",
+                        "success_rate": 0.7
+                    },
+                    "89": {
+                        "folder": "single_89",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 1.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                1.0,
+                0.6,
+                1.0,
+                0.9,
+                0.5,
+                0.3,
+                0.8,
+                0.5,
+                0.7,
+                1.0
+            ]
+        },
+        "9": {
+            "result_dict": {
+                "folder_task_dict": {
+                    "90": {
+                        "folder": "single_90",
+                        "task": "hammer-v1",
+                        "success_rate": 1.0
+                    },
+                    "91": {
+                        "folder": "single_91",
+                        "task": "push-wall-v1",
+                        "success_rate": 0.7
+                    },
+                    "92": {
+                        "folder": "single_92",
+                        "task": "faucet-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "93": {
+                        "folder": "single_93",
+                        "task": "push-back-v1",
+                        "success_rate": 1.0
+                    },
+                    "94": {
+                        "folder": "single_94",
+                        "task": "stick-pull-v1",
+                        "success_rate": 0.7
+                    },
+                    "95": {
+                        "folder": "single_95",
+                        "task": "handle-press-side-v1",
+                        "success_rate": 0.7
+                    },
+                    "96": {
+                        "folder": "single_96",
+                        "task": "push-v1",
+                        "success_rate": 0.8
+                    },
+                    "97": {
+                        "folder": "single_97",
+                        "task": "shelf-place-v1",
+                        "success_rate": 0.0
+                    },
+                    "98": {
+                        "folder": "single_98",
+                        "task": "window-close-v1",
+                        "success_rate": 1.0
+                    },
+                    "99": {
+                        "folder": "single_99",
+                        "task": "peg-unplug-side-v1",
+                        "success_rate": 1.0
+                    }
+                },
+                "ordered_tasks": [
+                    "hammer-v1",
+                    "push-wall-v1",
+                    "faucet-close-v1",
+                    "push-back-v1",
+                    "stick-pull-v1",
+                    "handle-press-side-v1",
+                    "push-v1",
+                    "shelf-place-v1",
+                    "window-close-v1",
+                    "peg-unplug-side-v1"
+                ]
+            },
+            "single_success": [
+                1.0,
+                0.7,
+                1.0,
+                1.0,
+                0.7,
+                0.7,
+                0.8,
+                0.0,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "seeds_processed": 10,
+    "array_length": 10
+}
